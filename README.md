@@ -13,4 +13,4 @@
 
 ### 📫 Contáctame  
 ✉️ **Email**: [carlospixel13@gmail.com](mailto:carlospixel13@gmail.com)  
-🔗 **LinkedIn**: [Carlos Conde](https://linkedin.com/in/tu-perfil)  
+🔗 **LinkedIn**: [Carlos Conde](https://www.linkedin.com/in/carlos-eduardo-cuamatzi-conde-9b4204241/)  
