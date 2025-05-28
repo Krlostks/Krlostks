@@ -1,16 +1,15 @@
-## Hi there 👋
+# ¡Hola! 🐱 Aqui Carlossss
 
-<!--
-**Krlostks/Krlostks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**🎓 Estudiante de Ingeniería** en la *Universidad Tecnológica de Tlaxcala*  
+**🔍 Buscando oportunidades** para crecer como desarrollador/profesional  
 
-Here are some ideas to get you started:
+### 🛠 Habilidades Técnicas  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Contáctame  
+✉️ **Email**: [carlospixel13@gmail.com](mailto:carlospixel13@gmail.com)  
+🔗 **LinkedIn**: [Carlos Conde](https://linkedin.com/in/tu-perfil)  
