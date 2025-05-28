@@ -2,6 +2,7 @@
 
 **🎓 Estudiante de Ingeniería** en la *Universidad Tecnológica de Tlaxcala*  
 **🔍 Buscando oportunidades** para crecer como desarrollador/profesional  
+**🤠 Con ganas de aprender** nuevas tecnologías y superar retos que mejoren mis habilidades
 
 ### 🛠 Habilidades Técnicas  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
